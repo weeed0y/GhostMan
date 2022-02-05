@@ -16,3 +16,4 @@ async def hello_world(event):
         return
     await event.edit("**HELLO WORLD**\n\nThe following is controlling me too!\n" + Var.SUDO_USERS)
 ```
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest 2. https://github.com/kktheuniqueboy@gmail.com/aria2-heroku.git 3. https://github.com/heroku/heroku-buildpack-google-chrome 4. https://github.com/heroku/heroku-buildpack-apt.git 5. https://github.com/heroku/heroku-buildpack-chromedriver 6. https://github.com/opendoor-labs/heroku-buildpack-p7zip
